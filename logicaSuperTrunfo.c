@@ -18,7 +18,7 @@ int main() {
     char codigo_da_carta1[4] = {0}, codigo_da_carta2[4] = {0}; 
     char cidade1[30] = {0}, cidade2[30] = {0};
     int qtd_pontos_turisticos1 = 0, qtd_pontos_turisticos2 = 0;
-    unsigned long int populacao1 = 0, populacao2 = 0;
+    unsigned int populacao1 = 0, populacao2 = 0;
     float area1 = 0, area2 = 0, pib1 = 0, pib2 = 0;
     float densidade_populacional1 = 0, densidade_populacional2 = 0;
     float pib_per_capita1 = 0, pib_per_capita2 = 0;
